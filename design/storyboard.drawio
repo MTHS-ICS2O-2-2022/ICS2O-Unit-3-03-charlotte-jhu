@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="866" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="606" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,10 +25,10 @@
                 <mxCell id="14" value="" style="rounded=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="7" vertex="1">
                     <mxGeometry x="110" y="305" width="170" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="Calculate" style="rounded=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="7">
+                <mxCell id="15" value="Calculate" style="rounded=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=21;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="7" vertex="1">
                     <mxGeometry x="20" y="360" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="Volume is: 40 cm&lt;span style=&quot;background-color: rgba(66, 133, 244, 0.3); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; font-size: 21px; text-align: left;&quot;&gt;&lt;sup style=&quot;font-size: 21px;&quot;&gt;3&lt;/sup&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontSize=21;" vertex="1" parent="7">
+                <mxCell id="17" value="Volume is: 40 cm&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; font-size: 21px; text-align: left;&quot;&gt;&lt;sup style=&quot;font-size: 21px;&quot;&gt;3&lt;/sup&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontSize=21;" parent="7" vertex="1">
                     <mxGeometry x="10" y="420" width="200" height="50" as="geometry"/>
                 </mxCell>
             </root>
