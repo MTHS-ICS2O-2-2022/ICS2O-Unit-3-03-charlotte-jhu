@@ -24,9 +24,8 @@ func main() {
 
 	// process
 	volume := (4.0 / 3) * math.Pi * (math.Pow(radius, 3))
-	roundedVolume := fmt.Sprintf("%.2f", volume)
 
 	// output
-	fmt.Println("The volume is ", roundedVolume, " cm³.")
+	fmt.Println("The volume is ", %.2f volume, " cm³.")
 	fmt.Println("\nDone.")
 }
